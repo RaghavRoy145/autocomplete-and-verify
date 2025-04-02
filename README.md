@@ -54,7 +54,7 @@
 Write a comment in your buffer like this:
 
 
-// autocomplete: Write a function that adds two numbers and prints the result
+// @autocomplete: Write a function that adds two numbers and prints the result
 
 or in Java:
 
