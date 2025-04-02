@@ -27,7 +27,7 @@
 1. Clone this repo (if not using MELPA yet):
 
     ```bash
-    git clone https://github.com/yourusername/autocomplete-and-verify ~/.emacs.d/lisp/autocomplete-and-verify
+    git clone https://github.com/RaghavRoy145/autocomplete-and-verify ~/.emacs.d/lisp/autocomplete-and-verify
     ```
 
 2. Add to your Emacs `init.el`:
