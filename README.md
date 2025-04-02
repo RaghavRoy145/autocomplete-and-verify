@@ -56,10 +56,6 @@ Write a comment in your buffer like this:
 
 // @autocomplete: Write a function that adds two numbers and prints the result
 
-or in Java:
-
-// autocomplete: Create a method that reverses a string
-
 ### 2. Run the command
 
 Press the keybinding (default C-c v) or run:
