@@ -24,7 +24,7 @@
 
 ## Installation
 
-1. Clone this repo (if not using MELPA yet):
+1. Clone this repo (not on MELPA yet!):
 
     ```bash
     git clone https://github.com/RaghavRoy145/autocomplete-and-verify ~/.emacs.d/lisp/autocomplete-and-verify
@@ -51,7 +51,7 @@
 
 ### 1. Add a comment prompt
 
-Write a comment in your buffer like this:
+Write a comment in your C buffer like this:
 
 
 // @autocomplete: Write a function that adds two numbers and prints the result
