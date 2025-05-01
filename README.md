@@ -81,3 +81,14 @@ When you first run the package, it will prompt you for your API key.
 You can also hardcode your API key in your config:
 
 ```(setq copilot-infer-api-key "sk-...")```
+
+## Screen Grab of The Pipeline 
+
+### _LLM Code Gen -> Infer Finds Bugs and Prompts LLM With Error -> LLM Explains Bug and Proposes Fix -> Fixed Code Runs_
+
+
+
+https://github.com/user-attachments/assets/7ee48d8c-3f4c-41de-9846-7253ef35960b
+
+
+
