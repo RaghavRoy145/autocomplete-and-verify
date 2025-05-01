@@ -84,7 +84,7 @@ You can also hardcode your API key in your config:
 
 ## Screen Grab of The Pipeline 
 
-### _ Prompt as Comments -> LLM Code Gen -> Infer Finds Bugs and Prompts LLM With Error -> LLM Explains Bug and Proposes Fix -> Fixed Code Runs_
+### _Prompt as Comments -> LLM Code Gen -> Infer Finds Bugs and Prompts LLM With Error -> LLM Explains Bug and Proposes Fix -> Fixed Code Runs_
 
 
 
